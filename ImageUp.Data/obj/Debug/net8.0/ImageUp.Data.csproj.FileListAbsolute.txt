@@ -1,0 +1,6 @@
+C:\Users\Aman\source\repos\ImageUp\ImageUp.Data\obj\Debug\net8.0\ImageUp.Data.csproj.AssemblyReference.cache
+C:\Users\Aman\source\repos\ImageUp\ImageUp.Data\obj\Debug\net8.0\ImageUp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman\source\repos\ImageUp\ImageUp.Data\obj\Debug\net8.0\ImageUp.Data.AssemblyInfoInputs.cache
+C:\Users\Aman\source\repos\ImageUp\ImageUp.Data\obj\Debug\net8.0\ImageUp.Data.AssemblyInfo.cs
+C:\Users\Aman\source\repos\ImageUp\ImageUp.Data\obj\Debug\net8.0\ImageUp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\ImageUp\ImageUp.Data\obj\Debug\net8.0\ImageUp.Data.sourcelink.json

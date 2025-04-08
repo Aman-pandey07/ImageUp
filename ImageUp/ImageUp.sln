@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUp", "ImageUp.csproj", "{7A1BC1E7-574C-491D-AE00-D0BA071885E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUp.API", "ImageUp.API.csproj", "{7A1BC1E7-574C-491D-AE00-D0BA071885E6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD53907A-7691-46FC-A3C6-FD71EA83605D}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUp.Data", "..\ImageUp.Data\ImageUp.Data.csproj", "{03C45D8B-F9A7-4D5A-B5BC-3CF5E4E63FFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{7A1BC1E7-574C-491D-AE00-D0BA071885E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A1BC1E7-574C-491D-AE00-D0BA071885E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A1BC1E7-574C-491D-AE00-D0BA071885E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C45D8B-F9A7-4D5A-B5BC-3CF5E4E63FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C45D8B-F9A7-4D5A-B5BC-3CF5E4E63FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C45D8B-F9A7-4D5A-B5BC-3CF5E4E63FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C45D8B-F9A7-4D5A-B5BC-3CF5E4E63FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
